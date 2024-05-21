@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=joyce-woo&label=Profile%20views&color=0e75b6&style=flat)
 
 🔭 A degree Computer Science student at Multimedia University, Cyberjaya<br>
-🌱 I’m currently learning about Data Science.<br>
+🌱 I’m currently learning about data science and data analytics.<br>
 📫 How to reach me: joycewoo172@gmail.com
 
 # 💻 Tech Stack:
