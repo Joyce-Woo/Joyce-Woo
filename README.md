@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Joyce!<br/>
-![Banner](https://img.wattpad.com/story_parts/1061475594/images/167974f600507941853544139554.gif)
+![Banner](https://img.wattpad.com/story_parts/1061475594/images/167974f600507941853544139554.gif)<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=joyce-woo&label=Profile%20views&color=0e75b6&style=flat)
 
 🔭 A degree Computer Science student at Multimedia University, Cyberjaya<br>
