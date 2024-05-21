@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/5e/7f/e0/5e7fe0aea154af89c93619daa2e39aa7.gif)
+![Banner](https://img.wattpad.com/story_parts/1061475594/images/167974f600507941853544139554.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joyce-woo&label=Profile%20views&color=0e75b6&style=flat)<br/>
 # 💫 Hi, I'm Joyce!<br/>
