@@ -1,11 +1,10 @@
-![Banner](https://img.wattpad.com/story_parts/1061475594/images/167974f600507941853544139554.gif)
-
-![Profile Views](https://komarev.com/ghpvc/?username=joyce-woo&label=Profile%20views&color=0e75b6&style=flat)<br/>
 # 💫 Hi, I'm Joyce!<br/>
+![Banner](https://img.wattpad.com/story_parts/1061475594/images/167974f600507941853544139554.gif)
+![Profile Views](https://komarev.com/ghpvc/?username=joyce-woo&label=Profile%20views&color=0e75b6&style=flat)
+
 🔭 A degree Computer Science student at Multimedia University, Cyberjaya<br>
 🌱 I’m currently learning about data science and data analytics.<br>
-📫 How to reach me: joycewoo172@gmail.com
-
+📫 How to reach me: joycewoo172@gmail.com<br/><br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joy172__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joyce-woo-kai-xuan-a37101308) 
 
