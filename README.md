@@ -4,10 +4,7 @@
 
 🔭 A degree Computer Science student at Multimedia University, Cyberjaya<br>
 🌱 I’m currently learning about data science and data analytics.<br>
-📫 How to reach me: joycewoo172@gmail.com<br/><br/>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joy172__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joyce-woo-kai-xuan-a37101308) 
-
+📫 How to reach me: joycewoo172@gmail.com
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
