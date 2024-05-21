@@ -1,10 +1,14 @@
-# 💫 Hi, I'm Joyce!
+![Banner](https://i.pinimg.com/originals/5e/7f/e0/5e7fe0aea154af89c93619daa2e39aa7.gif)
+
+![Profile Views](https://komarev.com/ghpvc/?username=joyce-woo&label=Profile%20views&color=0e75b6&style=flat)<br/>
+# 💫 Hi, I'm Joyce!<br/>
 🔭 A degree Computer Science student at Multimedia University, Cyberjaya<br>
 🌱 I’m currently learning about data science and data analytics.<br>
 📫 How to reach me: joycewoo172@gmail.com
-
+![Gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joy172__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joyce-woo-kai-xuan-a37101308) 
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
