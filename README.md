@@ -30,6 +30,28 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF4081?style=for-the-badge)
 ![Object Detection](https://img.shields.io/badge/Object_Detection-FF9800?style=for-the-badge)
 
+# 🚀 Projects
+
+### 📊 Data Analysis & Visualization
+- **Sales Data Analysis Dashboard**  
+  Analyzed sales data using Python/R to identify trends, perform data preprocessing, and visualize insights using charts and graphs.  
+  *Skills:* Data Preprocessing, Data Analysis, Data Visualization
+
+### 🤖 Machine Learning / Deep Learning
+- **Object Detection System**  
+  Developed a deep learning–based object detection model to detect and classify objects from images or video streams.  
+  *Skills:* Deep Learning, Object Detection, Python
+
+### 🧾 Enterprise / System Development
+- **Stock Control & Sales Transaction System**  
+  Built and enhanced an enterprise-level system with logging, role-based access, and transaction management during internship at Amaseng Software Sdn. Bhd.  
+  *Tech:* Java / Scala, SQL, Web Technologies
+
+- **Consolidated e-Invoice System**  
+  Designed and implemented consolidated e-invoicing workflows, database linkage, and filtering features to improve submission efficiency.  
+  *Tech:* Scala, SQL, Web Forms
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joyce-Woo&theme=radical&hide_border=true)<br/>
